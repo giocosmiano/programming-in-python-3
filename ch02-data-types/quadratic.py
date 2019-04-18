@@ -1,3 +1,6 @@
+# see https://stackoverflow.com/questions/8651361/how-do-you-print-superscript-in-python
+# https://unicode.org/Public/UNIDATA/NamesList.txt
+
 import cmath
 import math
 import sys
