@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+#
+# ./tuple-list-samples.py
+
 import collections
 import string
 import sys
