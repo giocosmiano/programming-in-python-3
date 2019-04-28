@@ -1,4 +1,6 @@
-# csv2html.py < ./co2-sample.csv > co2-sample.html
+#!/usr/bin/env python3
+#
+# ./csv2html.py < co2-sample.csv > co2-sample.html
 
 import sys
 
