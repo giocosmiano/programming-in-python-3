@@ -17,7 +17,7 @@ for word in sorted(words):
 
 #
 # In Haskell, essentially a 1-liner code
-# And since Haskell is lazy, my assumption is that this `1-liner` is an O(1) time-complexity
+# And since Haskell is lazy, my take is that this `1-liner` is an O(1) time-complexity
 # due to function composition, similar to python implementation with map, even though Haskell has
 # to `sort` then `group` the list of words
 #
